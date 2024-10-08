@@ -1,6 +1,6 @@
 # Languages
 
-Welcome to the **Languages** organization! This repository serves as a comprehensive collection of resources, projects, and exercises for learning various programming languages.
+Welcome to the **Languages** organization! This repository serves as a comprehensive collection of resources, projects, and exercises for learning various programming languages and frameworks.
 
 ## 📚 Languages Covered
 
@@ -20,6 +20,14 @@ This organization focuses on the following programming languages:
 | **Solidity**     | A language for smart contracts on the Ethereum blockchain. |
 | **SQL**          | A language for managing and querying relational databases. |
 
+## 📚 Frameworks Covered
+
+This organization focuses on the following frameworks:
+
+| Framework        | Description                              |
+|------------------|------------------------------------------|
+| **TBA**       | TBA. |
+
 ## 🎯 Goals
 
 The primary goals are to:
@@ -30,6 +38,6 @@ The primary goals are to:
 
 ## 🚀 Getting Started
 
-To get started, explore the repositories for each language and follow the provided resources and projects.
+To get started, explore the repositories for each language/framework and follow the provided resources and projects.
 
 Happy coding! 🎉
